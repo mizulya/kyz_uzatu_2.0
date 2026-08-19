@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "filename": "hero-romantic-floral-background.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfc3ycaiza/hero-romantic-floral-background.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfc3ycaiza/hero-romantic-floral-background.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfc3ycaiza/hero-romantic-floral-background.png"
+    },
+    {
+      "status": "success",
+      "filename": "gallery-kazakh-couple-portrait.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfdxacai2q/gallery-kazakh-couple-portrait.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfdxacai2q/gallery-kazakh-couple-portrait.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfdxacai2q/gallery-kazakh-couple-portrait.png"
+    },
+    {
+      "status": "success",
+      "filename": "gallery-wedding-table-setting.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfefqcai2a/gallery-wedding-table-setting.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfefqcai2a/gallery-wedding-table-setting.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfefqcai2a/gallery-wedding-table-setting.png"
+    },
+    {
+      "status": "success",
+      "filename": "gallery-bridal-bouquet-rings.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfesqcaiya/gallery-bridal-bouquet-rings.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfesqcaiya/gallery-bridal-bouquet-rings.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfesqcaiya/gallery-bridal-bouquet-rings.png"
+    },
+    {
+      "status": "success",
+      "filename": "gallery-ceremony-arch-roses.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfe7icaizq/gallery-ceremony-arch-roses.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfe7icaizq/gallery-ceremony-arch-roses.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1449959/2026-07-21/s4lfe7icaizq/gallery-ceremony-arch-roses.png"
+    }
+  ],
+  "success_count": 5,
+  "failed_count": 0,
+  "running_count": 0,
+  "message": "Generated 5/5 images total"
+}
